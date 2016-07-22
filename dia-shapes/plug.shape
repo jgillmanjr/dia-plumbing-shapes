@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>dia-shapes - plug</name>
+  <icon>plug.png</icon>
+  <connections>
+    <point x="15" y="10"/>
+    <point x="10" y="10"/>
+    <point x="12.5" y="10"/>
+    <point x="13" y="8"/>
+    <point x="15" y="12"/>
+    <point x="13" y="12"/>
+    <point x="13" y="10"/>
+    <point x="15" y="8"/>
+    <point x="15" y="10"/>
+    <point x="14" y="12"/>
+    <point x="14" y="8"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15" y1="10" x2="10" y2="10"/>
+    <svg:rect style="fill: #ffffff" x="13" y="8" width="2" height="4"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="13" y="8" width="2" height="4"/>
+  </svg:svg>
+</shape>

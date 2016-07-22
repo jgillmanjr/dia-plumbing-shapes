@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>dia-shapes - reducing-elbow-right</name>
+  <icon>reducing-elbow-right.png</icon>
+  <connections>
+    <point x="5" y="5"/>
+    <point x="5" y="10"/>
+    <point x="10" y="10"/>
+    <point x="5" y="7.5"/>
+    <point x="7.5" y="10"/>
+    <point x="3" y="5"/>
+    <point x="7" y="5"/>
+    <point x="5" y="5"/>
+    <point x="10" y="9"/>
+    <point x="10" y="11"/>
+    <point x="10" y="10"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="5,5 5,10 10,10 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="3" y1="5" x2="7" y2="5"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="10" y1="9" x2="10" y2="11"/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>dia-shapes - globe-valve</name>
+  <icon>globe-valve.png</icon>
+  <connections>
+    <point x="5" y="15"/>
+    <point x="5" y="10"/>
+    <point x="15" y="15"/>
+    <point x="15" y="10"/>
+    <point x="5" y="12.5"/>
+    <point x="10" y="12.5"/>
+    <point x="15" y="12.5"/>
+    <point x="5" y="15"/>
+    <point x="15" y="10"/>
+    <point x="10" y="12.5"/>
+    <point x="10.0055" y="14"/>
+    <point x="10.0055" y="11.0073"/>
+    <point x="8.411" y="12.5037"/>
+    <point x="11.6" y="12.5037"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="5,15 5,10 15,15 15,10 "/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="5,15 15,10 "/>
+    <svg:ellipse style="fill: #ffffff" cx="10.0055" cy="12.5037" rx="1.5945" ry="1.49637"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="10.0055" cy="12.5037" rx="1.5945" ry="1.49637"/>
+  </svg:svg>
+</shape>

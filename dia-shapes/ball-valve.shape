@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>dia-shapes - ball-valve</name>
+  <icon>ball-valve.png</icon>
+  <connections>
+    <point x="10" y="10"/>
+    <point x="10" y="15"/>
+    <point x="10" y="12.5"/>
+    <point x="15" y="10"/>
+    <point x="15" y="15"/>
+    <point x="15" y="12.5"/>
+    <point x="12.5" y="15"/>
+    <point x="12.5" y="10"/>
+    <point x="10" y="12.5"/>
+    <point x="15" y="12.5"/>
+    <point x="12.5" y="10"/>
+    <point x="12.496" y="8.48754"/>
+    <point x="14.5" y="8.5"/>
+    <point x="12.498" y="9.24377"/>
+    <point x="13.498" y="8.49377"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="10" y1="10" x2="10" y2="15"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="15" y1="10" x2="15" y2="15"/>
+    <svg:ellipse style="fill: #ffffff" cx="12.5" cy="12.5" rx="2.5" ry="2.5"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="12.5" cy="12.5" rx="2.5" ry="2.5"/>
+    <svg:polyline style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" points="12.5,10 12.496,8.48754 14.5,8.5 "/>
+  </svg:svg>
+</shape>
