@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+
+<name>Plumbing</name>
+<description>Plumbing</description>
+<contents>
+  <object name="dia-shapes - tee"> <description>Tee</description> </object>
+  <object name="dia-shapes - elbow"> <description>Elbow</description> </object>
+  <object name="dia-shapes - plug"> <description>Plug</description> </object>
+  <object name="dia-shapes - union"> <description>Union</description> </object>
+  <object name="dia-shapes - cap"> <description>Cap</description> </object>
+  <object name="dia-shapes - gate-valve"> <description>Gate Valve</description> </object>
+  <object name="dia-shapes - ball-valve"> <description>Ball Valve</description> </object>
+  <object name="dia-shapes - butterfly-valve"> <description>Butterfly Valve</description> </object>
+  <object name="dia-shapes - check-valve"> <description>Check Valve</description> </object>
+  <object name="dia-shapes - globe-valve"> <description>Globe Valve</description> </object>
+
+  <object name="dia-shapes - reducer"> <description>Reducer</description> </object>
+  <object name="dia-shapes - reducing-tee"> <description>Reducing Tee</description> </object>
+  <object name="dia-shapes - reducing-tee-right"> <description>Reducing Tee (Right)</description> </object>
+  <object name="dia-shapes - reducing-tee-left"> <description>Reducing Tee (Left)</description> </object>
+  <object name="dia-shapes - reducing-elbow-right"> <description>Reducing Elbow (Right)</description> </object>
+  <object name="dia-shapes - reducing-elbow-top"> <description>Reducing Elbow (Left)</description> </object>
+
+</contents>
+</sheet>
+
