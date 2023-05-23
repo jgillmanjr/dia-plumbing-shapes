@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
-  <name>dia-shapes - tee</name>
-  <icon>tee.png</icon>
+  <name>dia-shapes - tee-horizontal</name>
+  <icon>tee-horizontal.png</icon>
   <connections>
     <point x="8" y="5"/>
     <point x="12" y="5"/>
