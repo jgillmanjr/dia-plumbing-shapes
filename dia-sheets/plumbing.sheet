@@ -4,7 +4,8 @@
 <name>Plumbing</name>
 <description>Plumbing</description>
 <contents>
-  <object name="dia-shapes - tee"> <description>Tee</description> </object>
+	<object name="dia-shapes - tee-horizontal"> <description>Horizontal Tee</description> </object>
+	<object name="dia-shapes - tee-vertical"> <description>Vertical Tee</description> </object>
   <object name="dia-shapes - elbow"> <description>Elbow</description> </object>
   <object name="dia-shapes - plug"> <description>Plug</description> </object>
   <object name="dia-shapes - union"> <description>Union</description> </object>
@@ -24,4 +25,3 @@
 
 </contents>
 </sheet>
-
